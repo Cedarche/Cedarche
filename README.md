@@ -14,7 +14,7 @@ You can see some of my projects below:
 - **Assetrix** - is an internal asset tracking system that uses QR Codes to track the location, P&ID, ISO number for industrial equipment. It was built specifically for a client at my previous job in order to keep track of the decomissioning of a complex gas compressor station and is still in use today.
 - **Stellarmetrics** - is a remote monitoring solution for assets in rural areas, it utilises the SWARM satellite network to send small packets of data (tank water levels, pressure readings, etc.) for a fraction of the cost of traditional systems.
 
-More information about my projects is available at [tomcarruthers.com](tomcarruthers.com).
+More information about my projects is available at [tomcarruthers.com](https://tomcarruthers.com/).
  
 I'm currently looking for work as a Frontend/Full stack React/React Native/Node.js developer in London, so please don't hesistate to contact me.
 
