@@ -16,5 +16,5 @@ You can see some of my projects below:
 
 More information about my projects is available at [tomcarruthers.com](https://tomcarruthers.com/).
  
-I'm currently looking for work as a Frontend/Full stack React/React Native/Node.js developer in London, so please don't hesistate to contact me - tomcarruthers96@gmail.com.
+I'm currently looking for work as a Frontend/Full stack React/React Native/Node.js developer in London, so please don't hesistate to contact me.
 
