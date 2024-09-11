@@ -1,6 +1,6 @@
 Hi, I'm Tom. 
 
-I'm a mechanical engineer with 5+ years of project management experience. I've recently moved to London and I'm looking to change careers into software engineering. Over the past 4 years, I've spent much of my spare time learning and building various ideas and software projects. 
+Although I am a mechanical project engineer by profession, my true interest lies in software/hardware development. As a self-taught developer, I have built and led several significant projects, both commercially and personally over the past 4+ years.
 
 You can see some of my projects below: 
 
